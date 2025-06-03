@@ -4,7 +4,7 @@ A beautiful, modern Flutter app for **exploring places**, **searching locations*
 
 ---
 
-![Google Maps Flutter Demo](![Simulator Screenshot - iPhone 16 Plus - 2025-06-03 at 17 30 57](https://github.com/user-attachments/assets/354d9163-3393-40a6-8b47-bf87068d0b7a))
+![Google Maps Flutter Demo](https://user-images.githubusercontent.com/your-screenshot.png)
 
 ---
 
