@@ -1,4 +1,4 @@
-# 🚖 Enhanced Google Maps Flutter App
+![Simulator Screenshot - iPhone 16 Plus - 2025-06-03 at 17 30 57](https://github.com/user-attachments/assets/1192b250-b0ce-4276-94f6-a14208351c9f)# 🚖 Enhanced Google Maps Flutter App
 
 A beautiful, modern Flutter app for **exploring places**, **searching locations**, viewing detailed info, and **planning routes** between two points—**inspired by top cab apps** like Uber and Ola. Enjoy a uniquely animated, glassmorphic, and dark-mode ready user experience.
 
@@ -32,10 +32,7 @@ A beautiful, modern Flutter app for **exploring places**, **searching locations*
 
 ## 🖼️ Screenshots
 
-<p align="center">
-  <img src="screenshots/light.png" alt="Light Mode" width="48%"/>
-  <img src="screenshots/dark.png" alt="Dark Mode" width="48%"/>
-</p>
+![Simulator Screenshot - iPhone 16 Plus - 2025-06-03 at 17 30 57](https://github.com/user-attachments/assets/8ece2215-0acc-4f11-b451-7dd06f007903)
 
 ---
 
