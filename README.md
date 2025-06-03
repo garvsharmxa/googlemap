@@ -1,38 +1,41 @@
-![Simulator Screenshot - iPhone 16 Plus - 2025-06-03 at 17 30 57](https://github.com/user-attachments/assets/1192b250-b0ce-4276-94f6-a14208351c9f)# 🚖 Enhanced Google Maps Flutter App
+# 🚖 Enhanced Google Maps Flutter App
 
 A beautiful, modern Flutter app for **exploring places**, **searching locations**, viewing detailed info, and **planning routes** between two points—**inspired by top cab apps** like Uber and Ola. Enjoy a uniquely animated, glassmorphic, and dark-mode ready user experience.
 
 ---
 
-![Google Maps Flutter Demo](https://user-images.githubusercontent.com/your-screenshot.png)
+![Google Maps Flutter Demo](![Simulator Screenshot - iPhone 16 Plus - 2025-06-03 at 17 30 57](https://github.com/user-attachments/assets/354d9163-3393-40a6-8b47-bf87068d0b7a))
 
 ---
 
 ## ✨ Features
 
 - **🌎 Interactive Google Map**
-    - Gorgeous custom map styles for day & night, with smooth animated transitions.
+  - Gorgeous custom map styles for day & night, with smooth animated transitions.
 - **🔎 Powerful Place Search**
-    - Google Places Autocomplete for smart suggestions.
-    - Tap to view details, or **long-press** to set as Pickup (A) or Drop (B).
+  - Google Places Autocomplete for smart suggestions.
+  - Tap to view details, or **long-press** to set as Pickup (A) or Drop (B).
 - **🏙 Place Details**
-    - Beautiful detail sheets with images, reviews, ratings, address, website, and opening hours—all in a frosted 3D glass panel.
+  - Beautiful detail sheets with images, reviews, ratings, address, website, and opening hours—all in a frosted 3D glass panel.
 - **📍 Custom Location Selection**
-    - Tap anywhere on the map to set Location A (Pickup) or B (Drop).
-    - **Drag** markers for pinpoint accuracy.
+  - Tap anywhere on the map to set Location A (Pickup) or B (Drop).
+  - **Drag** markers for pinpoint accuracy.
 - **🚗 Route Planning**
-    - Draws the driving route (via Google Directions API), with distance shown in kilometers.
+  - Draws the driving route (via Google Directions API), with distance shown in kilometers.
 - **🌗 Dark & Light Mode**
-    - Instantly toggle between elegant day and night themes—UI and map included!
+  - Instantly toggle between elegant day and night themes—UI and map included!
 - **💎 Eye-Catching Animated UI**
-    - 3D glassmorphic search bar, animated gradients, and floating glass buttons.
-    - Smooth transitions and delightful touches throughout.
+  - 3D glassmorphic search bar, animated gradients, and floating glass buttons.
+  - Smooth transitions and delightful touches throughout.
 
 ---
 
 ## 🖼️ Screenshots
 
-![Simulator Screenshot - iPhone 16 Plus - 2025-06-03 at 17 30 57](https://github.com/user-attachments/assets/8ece2215-0acc-4f11-b451-7dd06f007903)
+<p align="center">
+  <img src="screenshots/light.png" alt="Light Mode" width="48%"/>
+  <img src="screenshots/dark.png" alt="Dark Mode" width="48%"/>
+</p>
 
 ---
 
@@ -42,7 +45,7 @@ A beautiful, modern Flutter app for **exploring places**, **searching locations*
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
 - [Google Cloud API Key](https://console.cloud.google.com/apis/credentials)
-    - Enable **Maps SDK for Android/iOS**, **Places API**, and **Directions API**.
+  - Enable **Maps SDK for Android/iOS**, **Places API**, and **Directions API**.
 
 ---
 
@@ -95,8 +98,8 @@ flutter run
 ### 📱 Android/iOS Setup
 
 - Follow the [google_maps_flutter documentation](https://pub.dev/packages/google_maps_flutter) for platform-specific setup:
-    - Add your API key to `AndroidManifest.xml` (Android)
-    - Add your API key to `AppDelegate.swift` (iOS)
+  - Add your API key to `AndroidManifest.xml` (Android)
+  - Add your API key to `AppDelegate.swift` (iOS)
 
 ---
 
